@@ -1,0 +1,13 @@
+{
+  "name": "bower-dummy",
+  "version": "0.0.0",
+  "authors": [
+    "Niels van Midden <niels.van.midden@debijenkorf.nl>"
+  ],
+  "description": "Dummy bower file",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
